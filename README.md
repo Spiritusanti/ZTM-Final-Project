@@ -1,4 +1,4 @@
-First full stack web development project build using React and Redux and leveraging the Clarifai API to recognize faces in user submitted images. Website is built with it's own back end server to store and authenticate users and track how many times they submit photos/use the app.
+First full stack web development project built using React and Redux and leveraging the Clarifai API to recognize faces in user submitted images. Website is built with it's own back end server to store and authenticate users and track how many times they submit photos/use the app.
 
 Live version is hosted at https://ztmfinalproject.herokuapp.com/
 
