@@ -2,6 +2,8 @@ First full stack web development project built using React and Redux and leverag
 
 Live version is hosted at https://ztmfinalproject.herokuapp.com/
 
+backend code: https://github.com/Spiritusanti/smart-brain-api
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
